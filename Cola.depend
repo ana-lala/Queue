@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1720485363 source:c:\cel_fotos\cola\main.cpp
+	<iostream>
+	"Cola.hpp"
+
+1720476327 c:\cel_fotos\cola\cola.hpp
+	"Cola.tpp"
+
+1710733978 c:\cel_fotos\cola\cola.tpp
+	<iostream>
+	"Cola.hpp"
+
